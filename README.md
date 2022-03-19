@@ -3,6 +3,8 @@
 ## Quais tecnologias utilizadas?
 
 - [TypeScript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
+- [Create React App](https://create-react-app.dev/)
 
 
 ## INSTALAÇÃO
@@ -22,7 +24,7 @@ Instalar as dependencias do projeto com o comando:
 \$ yarn
 ```
 
-Após concluir as instalações das dependencias, utilize o comando:
+Após concluir as instalações das dependências, utilize o comando:
 ```
 \$ yarn start
 ```
