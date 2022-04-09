@@ -1,6 +1,6 @@
 # Financial_manager
 
-Um gerenciador de finanças, onde você informa os ganhos e os gastos e coonsegue saber o quanto restou ou faltou.
+Um gerenciador de finanças, onde você informa os ganhos e os gastos e consegue saber o quanto restou ou faltou.
 
 
 ## Quais tecnologias utilizadas?
